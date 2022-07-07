@@ -1,0 +1,1 @@
+export { LegacyPdfViewer } from "./LegacyPdfViewer";

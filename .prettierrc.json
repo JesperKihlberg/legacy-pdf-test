@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "files": "**/getCompositeScaleAndSizeConfiguration.ts",
+      "options": {
+        "printWidth": 250
+      }
+    }
+  ]
+}

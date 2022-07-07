@@ -1,0 +1,5 @@
+/node_modules
+/build
+src/data/blocks.txt
+src/data/blocks.xlsx
+/coverage

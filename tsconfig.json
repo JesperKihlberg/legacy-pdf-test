@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "declaration": false,
+    "jsx": "react-jsx",
+    "outDir": "dist",
+    "allowJs": false,
+    "isolatedModules": true,
+    "noEmit": true,
+    "noFallthroughCasesInSwitch": true,
+    "lib": ["es6", "dom"],
+    "baseUrl": "src",
+    "paths": {
+      "state": ["state"],
+      "components": ["components"],
+      "actions": ["actions"]
+    }
+  }
+}
